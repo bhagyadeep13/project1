@@ -1,2 +1,2 @@
-# project1
-Author-Bhagyadeep (Mahawar)
+# Mini project
+Author-Bhagyadeep Mahawar
